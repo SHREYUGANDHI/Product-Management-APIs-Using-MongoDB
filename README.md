@@ -57,4 +57,4 @@ DELETE
 # Screenshot
 <a id="user-content-Screenshots" class="anchor" aria-hidden="true" href="#Screenshots"></a>
 
-<a href="https://github.com/BonyManjarawala/Product-Management-APIs-MongoDB/tree/main/ProductMangementAPIs(MongoDB)/Postman"> Click Here</a>
+<a href="https://github.com/SHREYUGANDHI/Product-Management-APIs-Using-MongoDB/tree/main/Postman"> Click Here</a>
